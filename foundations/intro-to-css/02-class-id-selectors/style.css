@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.n {
+    background-color: rgb(248, 153, 169);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#n2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.n.n3 {
+    font-size: 24px;
+}
+
+#n4 {
+    background-color: rgb(115, 252, 115);
+    font-size: 24px;
+    font-weight: bold;
+}
